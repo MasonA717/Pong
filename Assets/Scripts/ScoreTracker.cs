@@ -1,6 +1,6 @@
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
+
 public class ScoreTracker : MonoBehaviour {
     public Ball ball;
     public int P1Score, P2Score;

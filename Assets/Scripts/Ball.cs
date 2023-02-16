@@ -1,7 +1,6 @@
 using UnityEngine;
 
-public class Ball : MonoBehaviour
-{
+public class Ball : MonoBehaviour {
     public float unitsPerSecond = 200f;
     public Rigidbody2D rb;
     

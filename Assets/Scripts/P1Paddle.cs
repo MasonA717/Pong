@@ -1,9 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class P1Paddle : DemoPaddle
-{
+public class P1Paddle : DemoPaddle {
     private Vector2 movement;
 
     private void Update() {
